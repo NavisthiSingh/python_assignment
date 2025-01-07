@@ -1,0 +1,48 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache files
+_pycache_/
+.Python
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.eggs/
+.eggs/
+
+# IDE and editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test result files
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
